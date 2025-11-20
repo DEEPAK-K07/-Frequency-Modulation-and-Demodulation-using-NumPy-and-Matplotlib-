@@ -83,4 +83,5 @@ __Output:__
 
 
 __Result:__
+
 The message signal, carrier signal, and frequency modulated (FM) signal will be displayed in separate plots. The modulated signal will show frequency variations corresponding to the amplitude of the message signal.
